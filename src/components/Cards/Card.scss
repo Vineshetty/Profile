@@ -1,0 +1,12 @@
+.card-view{
+    background-color: antiquewhite;
+    margin:15px 25px 30px 25px;
+    padding:15px 25px 30px 25px;
+    transition: box-shadow 0.3s ease; 
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+}
+.card-view:hover{
+    background-color: aliceblue;
+    box-shadow: 10px 10px 20px rgba(36, 36, 36, 0.5); 
+}
